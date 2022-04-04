@@ -1,4 +1,4 @@
-# STM32L5 Open Bootloader Applications
+# STM32WL Open Bootloader Applications
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32wl-openbl-apps.svg?color=brightgreen)
 
